@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17f0d662-8746-4fe3-9f58-96ebb1858a32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pytoolsproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytoolsproject/github.api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pytoolsproject/github.api.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytoolsproject/github.api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +115,28 @@
       <option name="project" value="LOCAL" />
       <updated>1631058642250</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Aparecimento deste módulo com o criação do pacote Pytoolsproject.">
+      <created>1631058759288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631058759288</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Atualização do package idea.">
+      <created>1631058805925</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631058805925</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Arquivo gerado com o nome das dependências usadas neste projeto na versão .txt.">
+      <created>1631058879592</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631058879592</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +155,9 @@
     <MESSAGE value="Atualizações de arquivos não versionados no módulo idea." />
     <MESSAGE value="Inserção da informação sobre a versão do python suportada pelo projeto." />
     <MESSAGE value="Módulo criado para exemplificar o uso de dependências usando o requirements.txt." />
-    <option name="LAST_COMMIT_MESSAGE" value="Módulo criado para exemplificar o uso de dependências usando o requirements.txt." />
+    <MESSAGE value="Aparecimento deste módulo com o criação do pacote Pytoolsproject." />
+    <MESSAGE value="Atualização do package idea." />
+    <MESSAGE value="Arquivo gerado com o nome das dependências usadas neste projeto na versão .txt." />
+    <option name="LAST_COMMIT_MESSAGE" value="Arquivo gerado com o nome das dependências usadas neste projeto na versão .txt." />
   </component>
 </project>
