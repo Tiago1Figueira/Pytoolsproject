@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17f0d662-8746-4fe3-9f58-96ebb1858a32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytoolsproject/github.api.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytoolsproject/github.api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +133,35 @@
       <option name="project" value="LOCAL" />
       <updated>1631058879592</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Criada a pasta flake8 para diminuir tempo de checagem de códigos via comando 'flake8'.">
+      <created>1631212628682</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631212628682</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Correção do código para espelhar PEP8.">
+      <created>1631212715500</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1631212715500</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Listagem do passo a passo do que se instalar para fazer o flake8 em qualquer código do projeto.">
+      <created>1631212808604</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1631212808604</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Atualização workspace.xml para inserção do 'flake8'. Não foi feita manualmente.">
+      <created>1631212907183</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1631212907183</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +183,10 @@
     <MESSAGE value="Aparecimento deste módulo com o criação do pacote Pytoolsproject." />
     <MESSAGE value="Atualização do package idea." />
     <MESSAGE value="Arquivo gerado com o nome das dependências usadas neste projeto na versão .txt." />
-    <option name="LAST_COMMIT_MESSAGE" value="Arquivo gerado com o nome das dependências usadas neste projeto na versão .txt." />
+    <MESSAGE value="Criada a pasta flake8 para diminuir tempo de checagem de códigos via comando 'flake8'." />
+    <MESSAGE value="Correção do código para espelhar PEP8." />
+    <MESSAGE value="Listagem do passo a passo do que se instalar para fazer o flake8 em qualquer código do projeto." />
+    <MESSAGE value="Atualização workspace.xml para inserção do 'flake8'. Não foi feita manualmente." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização workspace.xml para inserção do 'flake8'. Não foi feita manualmente." />
   </component>
 </project>
