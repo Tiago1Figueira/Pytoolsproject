@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17f0d662-8746-4fe3-9f58-96ebb1858a32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +175,28 @@
       <option name="project" value="LOCAL" />
       <updated>1631212995806</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Colocação do símbolo da página do travis no readme.">
+      <created>1631550531333</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1631550531333</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Criação e set up do arquivo de configuração do travis.yml.">
+      <created>1631550661936</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1631550661936</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Alteração automática do módulo .idea.">
+      <created>1631550703839</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1631550703839</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +223,9 @@
     <MESSAGE value="Listagem do passo a passo do que se instalar para fazer o flake8 em qualquer código do projeto." />
     <MESSAGE value="Atualização workspace.xml para inserção do 'flake8'. Não foi feita manualmente." />
     <MESSAGE value="Criação do requirements-dev.txt para instalação de dependências por desenvolvedores." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação do requirements-dev.txt para instalação de dependências por desenvolvedores." />
+    <MESSAGE value="Colocação do símbolo da página do travis no readme." />
+    <MESSAGE value="Criação e set up do arquivo de configuração do travis.yml." />
+    <MESSAGE value="Alteração automática do módulo .idea." />
+    <option name="LAST_COMMIT_MESSAGE" value="Alteração automática do módulo .idea." />
   </component>
 </project>
