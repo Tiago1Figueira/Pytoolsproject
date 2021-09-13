@@ -1,5 +1,6 @@
 # Pytoolsproject
 Pytools project: repositório criado para curso pytools. 
+[![Build Status](https://app.travis-ci.com/Tiago1Figueira/Pytoolsproject.svg?branch=main)](https://app.travis-ci.com/Tiago1Figueira/Pytoolsproject)
 
 Este projeto suporta a versão 3 do python. 
 
