@@ -281,7 +281,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631580163904</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Criados os distintivos para o pyup(update automation) e para o python3.">
+      <created>1631668514754</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1631668514754</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Atualização automática do módulo '.idea'.">
+      <created>1631668560876</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1631668560876</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
