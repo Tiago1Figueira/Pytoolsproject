@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="17f0d662-8746-4fe3-9f58-96ebb1858a32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +246,42 @@
       <option name="project" value="LOCAL" />
       <updated>1631558885255</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Atualização automática módulo .idea.">
+      <created>1631558907720</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1631558907720</updated>
+    </task>
+    <task id="LOCAL-00024" summary="teste: mudança espaçamento para testar o travis CI.">
+      <created>1631579854901</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1631579854901</updated>
+    </task>
+    <task id="LOCAL-00025" summary="teste1: mudança espaçamento para testar o travis CI.">
+      <created>1631579982894</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1631579982894</updated>
+    </task>
+    <task id="LOCAL-00026" summary="teste2: mudança espaçamento para testar o travis CI.">
+      <created>1631580073796</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1631580073796</updated>
+    </task>
+    <task id="LOCAL-00027" summary="teste3: mudança espaçamento para testar o travis CI.">
+      <created>1631580163904</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1631580163904</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,6 +317,11 @@
     <MESSAGE value="Correção do comando de instalação das dependências no arquivo travis.yml." />
     <MESSAGE value="Atualização do comando de instalação das dependências no arquivo travis.yml. Uso do -q !" />
     <MESSAGE value="Atualização automática módulo .idea." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização automática módulo .idea." />
+    <MESSAGE value="teste: mudança espaçamento para testar o travis CI." />
+    <MESSAGE value="teste1: mudança espaçamento para testar o travis CI." />
+    <MESSAGE value="teste2: mudança espaçamento para testar o travis CI." />
+    <MESSAGE value="teste3: mudança espaçamento para testar o travis CI." />
+    <MESSAGE value="Criados os distintivos para o pyup(update automation) e para o python3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criados os distintivos para o pyup(update automation) e para o python3." />
   </component>
 </project>
