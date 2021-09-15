@@ -63,10 +63,9 @@ def find_package_data(
                             or fn.lower() == pattern.lower()):
                         bad_name = True
                         if show_ignored:
-                            print(sys.stderr, (
+                            print >> sys.stderr, (
                                     "Directory %s ignored by pattern %s"
                                     % (fn, pattern))
-                                  )
                         break
                 if bad_name:
                     continue
@@ -87,10 +86,9 @@ def find_package_data(
                             or fn.lower() == pattern.lower()):
                         bad_name = True
                         if show_ignored:
-                            print(sys.stderr, (
+                            print >> sys.stderr, (
                                     "File %s ignored by pattern %s"
                                     % (fn, pattern))
-                                  )
                         break
                 if bad_name:
                     continue
