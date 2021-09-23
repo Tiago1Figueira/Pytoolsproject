@@ -101,7 +101,7 @@ def find_package_data(
 PACKAGE = "Pytoolsproject"
 NAME = PACKAGE
 DESCRIPTION = "Pytools project: repositório criado para curso pytools."
-AUTHOR = "Tiago Figueira"
+AUTHOR = "Tiago figueira"
 AUTHOR_EMAIL = "tiago_figueira@hotmail.com"
 URL = "https://github.com/Tiago1Figueira/Pytoolsproject"
 VERSION = __import__(PACKAGE).__version__
