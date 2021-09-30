@@ -4,6 +4,7 @@ Pytools project: repositório criado para curso pytools.
 [![Build Status](https://app.travis-ci.com/Tiago1Figueira/Pytoolsproject.svg?branch=main)](https://app.travis-ci.com/Tiago1Figueira/Pytoolsproject)
 [![Updates](https://pyup.io/repos/github/Tiago1Figueira/Pytoolsproject/shield.svg)](https://pyup.io/repos/github/Tiago1Figueira/Pytoolsproject/)
 [![Python 3](https://pyup.io/repos/github/Tiago1Figueira/Pytoolsproject/python-3-shield.svg)](https://pyup.io/repos/github/Tiago1Figueira/Pytoolsproject/)
+[![codecov](https://codecov.io/gh/Tiago1Figueira/Pytoolsproject/branch/main/graph/badge.svg?token=FI0PVCTYU7)](https://codecov.io/gh/Tiago1Figueira/Pytoolsproject)
 
 Este projeto suporta a versão 3 do python. 
 
