@@ -3,7 +3,7 @@ import pytest
 from Pytoolsproject.spam.db import Conexao
 
 
-@pytest.fixture(scope = 'session')
+@pytest.fixture(scope='session')
 def conexao():
     # Execução da fase de setup das fixtures.
     conexao_obj = Conexao()
