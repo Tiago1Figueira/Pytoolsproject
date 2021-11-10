@@ -9,17 +9,17 @@ from Pytoolsproject.spam.modelos import Usuario
     'usuarios',
     [
         [
-        Usuario(nome='Renzo', email='renzo@python.pro.br'),
-        Usuario(nome='Luciano', email='renzo@python.pro.br')
+            Usuario(nome='Renzo', email='renzo@python.pro.br'),
+            Usuario(nome='Luciano', email='renzo@python.pro.br')
         ],
         [
-        Usuario(nome='Renzo', email='renzo@python.pro.br'),
-        Usuario(nome='Luciano', email='renzo@python.pro.br')
+            Usuario(nome='Renzo', email='renzo@python.pro.br'),
+            Usuario(nome='Luciano', email='renzo@python.pro.br')
         ]
     ]
 )
 def test_qde_de_spam(sessao, usuarios):
-    for usuario in  usuarios:
+    for usuario in usuarios:
         sessao.salvar(usuario)
     enviador = Enviador()
     enviador_de_spam = EnviadorDeSpam(sessao, enviador)
