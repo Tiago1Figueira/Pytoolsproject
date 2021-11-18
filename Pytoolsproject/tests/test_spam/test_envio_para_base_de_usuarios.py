@@ -2,7 +2,6 @@ from unittest.mock import Mock
 
 import pytest
 
-from Pytoolsproject.spam.enviador_de_email import Enviador
 from Pytoolsproject.spam.main import EnviadorDeSpam
 from Pytoolsproject.spam.modelos import Usuario
 
