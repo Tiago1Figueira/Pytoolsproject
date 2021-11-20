@@ -2,8 +2,6 @@ import requests
 
 
 def buscar_avatar(usuario):
-
-
     """
     Busca o avatar de um usuário no Github.
 
