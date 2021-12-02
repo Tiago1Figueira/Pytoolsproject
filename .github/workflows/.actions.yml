@@ -27,3 +27,6 @@ jobs:
         - name: Pipenv
           run: |
               pipenv sync -d
+        - name: Pytest
+          run: |
+              pytest
