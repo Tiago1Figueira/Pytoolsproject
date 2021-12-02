@@ -20,7 +20,7 @@ jobs:
           uses: py-actions/flake8@v1
         - name: Rodar Testes Automáticos
           run: |
-            pytest --cov=Pytoolproject
+            pytest --covs=Pytoolproject
         - name: Relatório Coverage
           run: |
             codecov
