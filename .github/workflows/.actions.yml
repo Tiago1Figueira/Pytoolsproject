@@ -19,6 +19,7 @@ jobs:
             pip install pytest
             pip install coverage
             pip install pytest-cov
+            pip install requests
             pipenv install
         - name: Rodar flake8
           uses: py-actions/flake8@v1
