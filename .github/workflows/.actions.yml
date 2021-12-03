@@ -16,11 +16,7 @@ jobs:
         - name: Instalar dependencias
           run: |
             pip install -q pipenv
-            pip install pytest
-            pip install coverage
-            pip install pytest-cov
-            pip install requests
-            pipenv install
+            pipenv install -d
         - name: Rodar flake8
           uses: py-actions/flake8@v1
         - name: Rodar Testes Automaticos
