@@ -15,19 +15,16 @@ jobs:
             architecture: x64
         - name: Instalar dependencias
           run: |
-            pip install -q pipenv
+            pip install pipenv
             pipenv install -d
         - name: Rodar flake8
           uses: py-actions/flake8@v1
-        - name: Rodar Testes Automaticos
-          run: |
-            pytest --cov=.
-        - name: Relatorio Coverage
-          run: |
-            codecov
         - name: Pipenv
           run: |
             pipenv sync -d
-        - name: Pytest
+        - name: Rodar Testes Automaticos
           run: |
-            pytest
+            pipenv run pytest --cov=Pytoolsproject
+ #       - name: Relatorio Coverage
+ #         run: |
+ #           pipenv run codecov
